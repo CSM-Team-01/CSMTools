@@ -8,6 +8,7 @@
 ```
 
 # CSM Tools
+***
 ## CSM Tools is a lot of hackers tools
 
 If you have any questions, error or you need help, join my discord
@@ -59,3 +60,7 @@ You can install it by the using **command prompt**
 |BlueRed|blueredstone01@gmail.com|CSM_Team#3950|916426488327307298|https://github.com/CSM-BlueRed|
 |CSM Team|csmteam01@gmail.com|CSM_Team#3950|916426488327307298|https://csm.teamcsm.repl.co|
 |ZFK_|khoukhi31120@gmail.com|</ZFK👑#0001|802255871484100629|https://www.youtube.com/channel/UComja9W3BLEfuL4szzT4U-g|
+
+> csm.teamcsm.repl.co
+> dsc.gg/csmteam
+> github.com/CSM-BlueRed_/CSMTools
